@@ -1,2 +1,2 @@
 # semaphoreui
-This is a simple ansiblerole for semaphore ui testing
+This is simple and stupid for testing purpose

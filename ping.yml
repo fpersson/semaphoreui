@@ -1,0 +1,5 @@
+- name: Ping the host
+  hosts: all
+  gather_facts: false
+  roles:
+    - role: ping
