@@ -2,4 +2,4 @@
 # tasks file for reboot
 - name: Reboot the host
   become: true
-  ansible.builtin.ping:
+  ansible.builtin.reboot:
