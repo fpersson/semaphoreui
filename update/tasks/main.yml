@@ -2,6 +2,6 @@
 # tasks file for update
 - name: Update the host
   become: true
-  ansible.general.zypper:
+  comunity.general.zypper:
     name: "*"
     state: latest
